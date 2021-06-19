@@ -77,7 +77,7 @@
 		<neo4j-ogm-core.version>3.2.21</neo4j-ogm-core.version>
 		<mongodb-driver-sync.version>4.2.3</mongodb-driver-sync.version>
 		<xstream.version>1.4.16</xstream.version>
-		<junit-jupiter.version>5.7.1</junit-jupiter.version>
+		<junit-jupiter.version>5.7.2</junit-jupiter.version>
 
 		<!-- test dependencies -->
 		<junit.version>4.13.2</junit.version>
