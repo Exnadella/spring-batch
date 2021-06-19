@@ -72,7 +72,7 @@
 		<javax.annotation-api.version>1.3.2</javax.annotation-api.version>
 		<javax.mail-api.version>1.6.2</javax.mail-api.version>
 		<javax.jms-api.version>2.0.1</javax.jms-api.version>
-		<javax.batch-api.version>1.0</javax.batch-api.version>
+		<javax.batch-api.version>1.0.1</javax.batch-api.version>
 		<validation-api.version>2.0.1.Final</validation-api.version>
 		<neo4j-ogm-core.version>3.2.21</neo4j-ogm-core.version>
 		<mongodb-driver-sync.version>4.2.3</mongodb-driver-sync.version>
