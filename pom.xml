@@ -61,7 +61,7 @@
 		<!-- optional production dependencies -->
 		<spring-data-geode.version>2.5.1-SNAPSHOT</spring-data-geode.version>
 		<spring-data-commons.version>2.5.1-SNAPSHOT</spring-data-commons.version>
-		<spring-data-jpa.version>2.5.1-SNAPSHOT</spring-data-jpa.version>
+		<spring-data-jpa.version>2.5.1</spring-data-jpa.version>
 		<spring-data-mongodb.version>3.2.1-SNAPSHOT</spring-data-mongodb.version>
 		<spring-kafka.version>2.7.1-SNAPSHOT</spring-kafka.version>
 		<spring-amqp.version>2.3.7-SNAPSHOT</spring-amqp.version>
