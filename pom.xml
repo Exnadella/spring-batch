@@ -76,7 +76,7 @@
 		<validation-api.version>2.0.1.Final</validation-api.version>
 		<neo4j-ogm-core.version>3.2.21</neo4j-ogm-core.version>
 		<mongodb-driver-sync.version>4.2.3</mongodb-driver-sync.version>
-		<xstream.version>1.4.16</xstream.version>
+		<xstream.version>1.4.18</xstream.version>
 		<junit-jupiter.version>5.7.1</junit-jupiter.version>
 
 		<!-- test dependencies -->
