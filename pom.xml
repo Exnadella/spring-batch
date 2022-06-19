@@ -86,7 +86,7 @@
 		<assertj.version>3.22.0</assertj.version>
 		<mockito.version>4.5.1</mockito.version>
 		<xmlunit.version>2.9.0</xmlunit.version>
-		<commons-io.version>2.11.0</commons-io.version>
+		<commons-io.version>20030203.000550</commons-io.version>
 		<commons-dbcp2.version>2.9.0</commons-dbcp2.version>
 		<slf4j.version>1.7.36</slf4j.version>
 		<hsqldb.version>2.6.1</hsqldb.version>
