@@ -74,7 +74,7 @@
 		<jakarta.jms-api.version>3.0.0</jakarta.jms-api.version>
 		<jakarta.validation-api.version>3.0.0</jakarta.validation-api.version>
 		<jakarta.persistence-api.version>3.0.0</jakarta.persistence-api.version>
-		<neo4j-ogm-core.version>3.2.33</neo4j-ogm-core.version>
+		<neo4j-ogm-core.version>4.0.0</neo4j-ogm-core.version>
 		<mongodb-driver-sync.version>4.6.0</mongodb-driver-sync.version>
 		<xstream.version>1.4.19</xstream.version>
 		<junit-jupiter.version>5.8.2</junit-jupiter.version>
