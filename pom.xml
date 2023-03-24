@@ -62,7 +62,7 @@
 		<spring-data-geode.version>3.0.0-SNAPSHOT</spring-data-geode.version>
 		<spring-data-commons.version>3.0.0-SNAPSHOT</spring-data-commons.version>
 		<spring-data-jpa.version>3.0.0-SNAPSHOT</spring-data-jpa.version>
-		<spring-data-mongodb.version>4.0.0-SNAPSHOT</spring-data-mongodb.version>
+		<spring-data-mongodb.version>4.0.4</spring-data-mongodb.version>
 		<spring-kafka.version>3.0.0-SNAPSHOT</spring-kafka.version>
 		<spring-amqp.version>3.0.0-SNAPSHOT</spring-amqp.version>
 		<spring-ldap.version>3.0.0-SNAPSHOT</spring-ldap.version>
