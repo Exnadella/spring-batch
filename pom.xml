@@ -94,7 +94,7 @@
 		<!-- test dependencies -->
 		<micrometer-tracing.version>1.4.0-SNAPSHOT</micrometer-tracing.version>
 
-		<xstream.version>1.4.20</xstream.version>
+		<xstream.version>1.4.21</xstream.version>
 		<junit.version>4.13.2</junit.version>
 		<junit-vintage-engine.version>${junit-jupiter.version}</junit-vintage-engine.version>
 		<hamcrest.version>2.2</hamcrest.version>
