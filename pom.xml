@@ -61,7 +61,7 @@
 		<java.version>17</java.version>
 
 		<!-- production dependencies -->
-		<spring-framework.version>6.2.0-SNAPSHOT</spring-framework.version>
+		<spring-framework.version>6.2.11</spring-framework.version>
 		<spring-retry.version>2.0.6-SNAPSHOT</spring-retry.version>
 		<spring-integration.version>6.4.0-SNAPSHOT</spring-integration.version>
 		<micrometer.version>1.14.0-SNAPSHOT</micrometer.version>
