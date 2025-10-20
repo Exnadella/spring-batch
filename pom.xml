@@ -73,7 +73,7 @@
 		<spring-data-mongodb.version>4.4.0-SNAPSHOT</spring-data-mongodb.version>
 		<spring-kafka.version>3.3.0-SNAPSHOT</spring-kafka.version>
 		<spring-amqp.version>3.2.0-SNAPSHOT</spring-amqp.version>
-		<spring-ldap.version>3.2.4-SNAPSHOT</spring-ldap.version>
+		<spring-ldap.version>3.3.4</spring-ldap.version>
 
 		<jackson.version>2.17.0</jackson.version>
 		<avro.version>1.11.3</avro.version>
